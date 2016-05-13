@@ -1,13 +1,16 @@
 {
-  "name": "angular-django-rest-resource",
-  "main": "angular-django-rest-resource.js",
-  "version": "1.0.3",
-  "homepage": "https://github.com/blacklocus/angular-django-rest-resource",
+  "name": "djrResource",
+  "main": "djr-resource.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/arturoblack/djrResource",
   "authors": [
+    "Arturo Bolaños"
+  ],
+  "original_authors": [
     "BlackLocus",
     "Justin Turner Arthur",
     "Contributors"
-  ],
+  ]
   "description": "An AngularJS module that provides a resource-generation service similar to ngResource, but optimized for the Django REST Framework.",
   "keywords": [
     "AngularJS",
